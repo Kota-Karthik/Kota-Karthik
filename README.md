@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Fresher at IIIT Lucknow<br>👯ML Entusiast<br>🤝 WEB develepment entusiast<br>🌱 I’m currently learning<br>💬 Ask me about Machine learning<br>⚡ Fun fact - I am lazy but smart
+🔭 Fresher at IIIT Lucknow<br>👯ML Entusiast<br>🤝 WEB development entusiast<br>🌱 I’m currently learning<br>💬 Ask me about Machine learning<br>⚡ Fun fact - I am lazy but smart
 
 
 ## 🌐 Socials:
