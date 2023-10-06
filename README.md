@@ -13,7 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kota-Karthik&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-
 [![An image of @kotakarthik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kotakarthik)](https://holopin.io/@kotakarthik)
 ![](https://github-profile-trophy.vercel.app/?username=Kota-Karthik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
