@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on WebD<br>🌱 I’m currently learning WebD
+🔭 I’m currently exploring <br>🌱 Learning never stops!
 
 
 ## 🌐 Socials:
