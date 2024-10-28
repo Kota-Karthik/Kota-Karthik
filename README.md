@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently exploring <br>🌱 Learning never stops!
+🔭 I’m currently exploring <br>🌱 Learning never stops! <br> Inexorably pushing past bottlenecks, breaking paradigms. My pursuit isn’t peculiar,it’s imperative. Relentlessly proving wrong.
 
 
 ## 🌐 Socials:
